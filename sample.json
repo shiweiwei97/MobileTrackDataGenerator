@@ -1,0 +1,50 @@
+{
+    "deviceId": "F54E5B4F-E6CA-4DA8-86FB-C60171C36F5F",
+    "deviceModel": "iPhone Simulator",
+    "deviceName": "iPhone Simulator",
+    "SDKVersion": "1.0.0",
+    "OSVersion": "8.300000",
+    "sessionId": "A9246F67-698F-4ED6-9DF9-C3F964214ED8",
+    "endTime": 1432201506397,
+    "appKey": "5555dcee67e58e9646000a25",
+    "appVersion": "1.0",
+    "startTime": 1432201474887,
+    "pageViews": [
+        {
+            "endTime": 1432201502553,
+            "startTime": 1432201482417,
+            "pageName": "detailPage"
+        },
+        {
+            "endTime": 1432201502553,
+            "startTime": 1432201491627,
+            "pageName": "detailPage"
+        }
+    ],
+    "events": [
+        {
+            "endTime": 1432201500647,
+            "count": 1,
+            "label": "testEvent2",
+            "eventId": "testEvent2",
+            "startTime": 1432201494068,
+            "keyName": "myKey",
+            "attributes": {
+                "key1": "value1",
+                "key2": "value2"
+            }
+        },
+        {
+            "endTime": 1432201500647,
+            "count": 1,
+            "label": "testEvent2",
+            "eventId": "testEvent2",
+            "startTime": 1432201499043,
+            "keyName": "myKey",
+            "attributes": {
+                "key1": "value1",
+                "key2": "value2"
+            }
+        }
+    ]
+}
