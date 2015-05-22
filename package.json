@@ -1,41 +1,41 @@
 {
-  "name": "mobiletrack-generator",
-  "version": "0.0.0",
-  "description": "MobileTrackSDK session data generator",
-  "author": {
-    "name": "Weiwei Shi",
-    "email": "shiweiwei97@gmail.com"
-  },
-  "repository": "shiweiwei97/mobiletrack-generator",
-  "license": "MIT",
-  "files": [
-    "index.js",
-    "cli.js"
-  ],
-  "keywords": [
-    "mobiletrack-generator"
-  ],
-  "dependencies": {
-    "async": "^1.0.0",
-    "lodash": "^3.9.1",
-    "log4js": "^0.6.25",
-    "meow": "^3.1.0",
-    "random-js": "^1.0.4"
-  },
-  "devDependencies": {
-    "grunt-cli": "^0.1.13",
-    "grunt-contrib-jshint": "^0.11.0",
-    "grunt-contrib-nodeunit": "^0.4.1",
-    "grunt-contrib-watch": "^0.6.1",
-    "grunt-mocha-cli": "^1.12.0",
-    "jshint-stylish": "^1.0.1",
-    "load-grunt-tasks": "^3.1.0",
-    "time-grunt": "^1.1.0"
-  },
-  "scripts": {
-    "test": "grunt"
-  },
-  "bin": {
-    "mobiletrack-generator": "cli.js"
-  }
+    "name": "mobiletrack-generator",
+    "version": "0.0.0",
+    "description": "MobileTrackSDK session data generator",
+    "author": {
+        "name": "Weiwei Shi",
+        "email": "shiweiwei97@gmail.com"
+    },
+    "repository": "shiweiwei97/mobiletrack-generator",
+    "license": "MIT",
+    "files": [
+        "index.js",
+        "cli.js"
+    ],
+    "keywords": [
+        "mobiletrack-generator"
+    ],
+    "dependencies": {
+        "async": "^1.0.0",
+        "lodash": "^3.9.1",
+        "log4js": "^0.6.25",
+        "meow": "^3.1.0",
+        "random-js": "^1.0.4"
+    },
+    "devDependencies": {
+        "grunt-cli": "^0.1.13",
+        "grunt-contrib-jshint": "^0.11.0",
+        "grunt-contrib-nodeunit": "^0.4.1",
+        "grunt-contrib-watch": "^0.6.1",
+        "grunt-mocha-cli": "^1.12.0",
+        "jshint-stylish": "^1.0.1",
+        "load-grunt-tasks": "^3.1.0",
+        "time-grunt": "^1.1.0"
+    },
+    "scripts": {
+        "test": "grunt"
+    },
+    "bin": {
+        "mobiletrack-generator": "cli.js"
+    }
 }
