@@ -17,10 +17,13 @@
     ],
     "dependencies": {
         "async": "^1.0.0",
-        "lodash": "^3.9.1",
+        "jsonfile": "^2.0.1",
+        "lodash": "^3.9.3",
         "log4js": "^0.6.25",
         "meow": "^3.1.0",
-        "random-js": "^1.0.4"
+        "mysql": "^2.7.0",
+        "random-js": "^1.0.4",
+        "walk": "^2.3.9"
     },
     "devDependencies": {
         "grunt-cli": "^0.1.13",
